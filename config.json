@@ -1,0 +1,4 @@
+{
+	"kaldi_decoder": "/Users/jyang/kaldi/src/online2bin/online2-wav-nnet2-latgen-faster",
+	"model_path": "/Users/jyang/speech-to-text/kaldi/LibriSpeech_TDNN/nnet_ms_a_online"
+}

@@ -1,2 +1,5 @@
 #####uploaded wav file######
-uploads/*.wav
+*.wav
+
+#####config file#####
+config.json
